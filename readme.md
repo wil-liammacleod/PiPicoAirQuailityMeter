@@ -1,4 +1,4 @@
-The physical wireing of the project is discribed below
+The physical wiring of the project is discribed below
 
 USB for 5V power
 
